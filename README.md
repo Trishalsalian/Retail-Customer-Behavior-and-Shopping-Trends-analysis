@@ -53,6 +53,7 @@ Evaluated impact of shipping types on sales
 Measured customer satisfaction using review ratings
 
 How to Run the Project:
+
 Python & EDA:
 Open the Jupyter Notebook / Colab file
 Install required libraries:
